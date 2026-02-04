@@ -1,0 +1,11 @@
+let str = "Hello, JavaScript!";
+console.log(str.length);           // 18 (문자열 길이)
+// console.log(str.toUpperCase())
+// console.log(str.toLowerCase())
+// console.log(str.includes("Java"))
+// console.log(str.startsWith("Java"))
+// console.log(str.endsWith("ipt!"))
+// console.log(str.substring(7,17))
+// console.log(str.slice(-11))
+console.log(str.replace('JavaScript','World'))
+console.log(str.split(','))
